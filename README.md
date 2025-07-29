@@ -1,0 +1,2 @@
+# cleanfinish-sitemap
+Sitemap redirect
